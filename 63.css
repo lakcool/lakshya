@@ -1,0 +1,45 @@
+
+    
+ 
+ hr{
+    height: 10px;
+    width: 100px;
+    background-color: black;
+    border-radius: 75px;
+ }
+ .e{
+     height: 100px;
+     width: 100px;
+     display: inline;
+ }
+ li{
+   
+   
+    cursor: pointer;
+    display: inline;
+ padding: 10px;
+  
+}
+li:hover{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color:dodgerblue;
+   cursor: pointer;
+  
+   padding: 10px;
+  
+    
+   display:  inline;
+}
+ul{
+    text-decoration: none;
+    background-color: black;
+
+    text-align: center;
+}
+#lakshya{
+    position: fixed;
+    width: 100%;
+}
